@@ -2,7 +2,7 @@
 Excel Add-Ins for short-term forecasting.
 To use this Excel Add-Ins please follow below steps.
 
-First on your personal computer you need to have Windows 7, 8, 8.1, 10.
+First on your personal computer you need to have Windows 7, 8, 8.1, 10 (32 bit).
 
 Download ZIP file
 
